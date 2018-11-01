@@ -12,6 +12,396 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-11-01T13:56:06.128-04:00
-  initializedAtString: 2018-11-01T13:14:54.715-04:00
-  entries: []
+  lastUpdatedAtString: 2018-11-01T16:47:39.950-04:00
+  initializedAtString: 2018-11-01T14:50:46.794-04:00
+  entries:
+  - path: .vs\Dead Earth\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\.vs\Dead Earth\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Dead Earth\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs\Dead Earth\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\.vs\Dead Earth\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Dead Earth\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs\Dead Earth\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\.vs\Dead Earth\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Dead Earth\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Dead Earth\Editor\AIWaypointNetworkEditor.cs
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Assets\Dead Earth\Editor\AIWaypointNetworkEditor.cs
+    projectPath: Assets\Dead Earth\Editor\AIWaypointNetworkEditor.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Dead Earth\Editor\AIWaypointNetworkEditor.cs.meta
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Assets\Dead Earth\Editor\AIWaypointNetworkEditor.cs.meta
+    projectPath: Assets\Dead Earth\Editor\AIWaypointNetworkEditor.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Dead Earth\Scripts\AIWaypointNetwork.cs
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Assets\Dead Earth\Scripts\AIWaypointNetwork.cs
+    projectPath: Assets\Dead Earth\Scripts\AIWaypointNetwork.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Dead Earth.sln
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Dead Earth.sln
+    projectPath: Dead Earth.sln
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\3f\3fd11af1c94bfa8408bd8bf2bdb493e5
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\metadata\3f\3fd11af1c94bfa8408bd8bf2bdb493e5
+    projectPath: Library\metadata\3f\3fd11af1c94bfa8408bd8bf2bdb493e5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\3f\3fd11af1c94bfa8408bd8bf2bdb493e5.info
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\metadata\3f\3fd11af1c94bfa8408bd8bf2bdb493e5.info
+    projectPath: Library\metadata\3f\3fd11af1c94bfa8408bd8bf2bdb493e5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\e7\e72c97b70189e514a846b393f98ed207
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\metadata\e7\e72c97b70189e514a846b393f98ed207
+    projectPath: Library\metadata\e7\e72c97b70189e514a846b393f98ed207
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-02d444b6ae562954db11e2bbb7908770
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-02d444b6ae562954db11e2bbb7908770
+    projectPath: Temp\UnityTempFile-02d444b6ae562954db11e2bbb7908770
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-047db9e4e7a6208479247108de85c60b
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-047db9e4e7a6208479247108de85c60b
+    projectPath: Temp\UnityTempFile-047db9e4e7a6208479247108de85c60b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-09de93bce2815df4e829091348b98cb2
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-09de93bce2815df4e829091348b98cb2
+    projectPath: Temp\UnityTempFile-09de93bce2815df4e829091348b98cb2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-0d426a71fbbed0a47acc655d1d3ae465
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-0d426a71fbbed0a47acc655d1d3ae465
+    projectPath: Temp\UnityTempFile-0d426a71fbbed0a47acc655d1d3ae465
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-18000ece2447c984095df653b9c8fe62
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-18000ece2447c984095df653b9c8fe62
+    projectPath: Temp\UnityTempFile-18000ece2447c984095df653b9c8fe62
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-197a8379f297e1b44ab85e9b68d578c3
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-197a8379f297e1b44ab85e9b68d578c3
+    projectPath: Temp\UnityTempFile-197a8379f297e1b44ab85e9b68d578c3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1cf10c7dd6846bf4fbfd1e0ada1ebd6e
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-1cf10c7dd6846bf4fbfd1e0ada1ebd6e
+    projectPath: Temp\UnityTempFile-1cf10c7dd6846bf4fbfd1e0ada1ebd6e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-2e3cba6b11dcd974e919d9a0b85c2a83
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-2e3cba6b11dcd974e919d9a0b85c2a83
+    projectPath: Temp\UnityTempFile-2e3cba6b11dcd974e919d9a0b85c2a83
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3973eacf02f0bae4993b4f6ae00e13a9
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-3973eacf02f0bae4993b4f6ae00e13a9
+    projectPath: Temp\UnityTempFile-3973eacf02f0bae4993b4f6ae00e13a9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-43910e2d90e6c6b4b91e43ad12542b80
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-43910e2d90e6c6b4b91e43ad12542b80
+    projectPath: Temp\UnityTempFile-43910e2d90e6c6b4b91e43ad12542b80
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-56426cf3425344b4d978fe75163bc63a
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-56426cf3425344b4d978fe75163bc63a
+    projectPath: Temp\UnityTempFile-56426cf3425344b4d978fe75163bc63a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5aff64e9450efcf41864770cd624c27f
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-5aff64e9450efcf41864770cd624c27f
+    projectPath: Temp\UnityTempFile-5aff64e9450efcf41864770cd624c27f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-6006ac389fc11a94d9f0f524251e0392
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-6006ac389fc11a94d9f0f524251e0392
+    projectPath: Temp\UnityTempFile-6006ac389fc11a94d9f0f524251e0392
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-6548baba886f9d940baf458cf2013471
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-6548baba886f9d940baf458cf2013471
+    projectPath: Temp\UnityTempFile-6548baba886f9d940baf458cf2013471
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-718408a7a0cf2f5469cfb1e08e155524
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-718408a7a0cf2f5469cfb1e08e155524
+    projectPath: Temp\UnityTempFile-718408a7a0cf2f5469cfb1e08e155524
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-74c16024326de83479ebb134be1bb25b
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-74c16024326de83479ebb134be1bb25b
+    projectPath: Temp\UnityTempFile-74c16024326de83479ebb134be1bb25b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7c3676f47943ddf4d9e250127080010b
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-7c3676f47943ddf4d9e250127080010b
+    projectPath: Temp\UnityTempFile-7c3676f47943ddf4d9e250127080010b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7e50fb830a4d81b408f7dd76974e9cc1
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-7e50fb830a4d81b408f7dd76974e9cc1
+    projectPath: Temp\UnityTempFile-7e50fb830a4d81b408f7dd76974e9cc1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7f70bee725d2b8b4fadb84303bf31cdd
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-7f70bee725d2b8b4fadb84303bf31cdd
+    projectPath: Temp\UnityTempFile-7f70bee725d2b8b4fadb84303bf31cdd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8042449bd64f2f74b871cd6faebfab79
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-8042449bd64f2f74b871cd6faebfab79
+    projectPath: Temp\UnityTempFile-8042449bd64f2f74b871cd6faebfab79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8934998f991ef8940b160ff8eddc08c8
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-8934998f991ef8940b160ff8eddc08c8
+    projectPath: Temp\UnityTempFile-8934998f991ef8940b160ff8eddc08c8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8cd9c96b17210aa4abcae9a1b3ae2035
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-8cd9c96b17210aa4abcae9a1b3ae2035
+    projectPath: Temp\UnityTempFile-8cd9c96b17210aa4abcae9a1b3ae2035
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9ad332ba52f2af54eaf59beb51d3ac15
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-9ad332ba52f2af54eaf59beb51d3ac15
+    projectPath: Temp\UnityTempFile-9ad332ba52f2af54eaf59beb51d3ac15
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-abbc47522fa05024cb7234e689e403aa
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-abbc47522fa05024cb7234e689e403aa
+    projectPath: Temp\UnityTempFile-abbc47522fa05024cb7234e689e403aa
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-aea22d596bc87b947887924574431a8a
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-aea22d596bc87b947887924574431a8a
+    projectPath: Temp\UnityTempFile-aea22d596bc87b947887924574431a8a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b1dda766903a18a46b3080cc38963fc5
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-b1dda766903a18a46b3080cc38963fc5
+    projectPath: Temp\UnityTempFile-b1dda766903a18a46b3080cc38963fc5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ba211e35f58807a4fac14edf919a44e5
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-ba211e35f58807a4fac14edf919a44e5
+    projectPath: Temp\UnityTempFile-ba211e35f58807a4fac14edf919a44e5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-bdb027bcf5a3a994f93cbb3b842050c0
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-bdb027bcf5a3a994f93cbb3b842050c0
+    projectPath: Temp\UnityTempFile-bdb027bcf5a3a994f93cbb3b842050c0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c10bf6b4d3d77314fbc1c17f17445fab
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-c10bf6b4d3d77314fbc1c17f17445fab
+    projectPath: Temp\UnityTempFile-c10bf6b4d3d77314fbc1c17f17445fab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c873f27ba42c1444a826bad09f29b950
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-c873f27ba42c1444a826bad09f29b950
+    projectPath: Temp\UnityTempFile-c873f27ba42c1444a826bad09f29b950
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c8f23c3ce875c1c488aef296c803e304
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-c8f23c3ce875c1c488aef296c803e304
+    projectPath: Temp\UnityTempFile-c8f23c3ce875c1c488aef296c803e304
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ce76da0c8d60688408057de8dca0c186
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-ce76da0c8d60688408057de8dca0c186
+    projectPath: Temp\UnityTempFile-ce76da0c8d60688408057de8dca0c186
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cf380e18244bbfa45a0ae9b64a737a9a
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-cf380e18244bbfa45a0ae9b64a737a9a
+    projectPath: Temp\UnityTempFile-cf380e18244bbfa45a0ae9b64a737a9a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-deea282147b30fb48912462ca7b4725a
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-deea282147b30fb48912462ca7b4725a
+    projectPath: Temp\UnityTempFile-deea282147b30fb48912462ca7b4725a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e145a050457b94b44b71f4938434da35
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-e145a050457b94b44b71f4938434da35
+    projectPath: Temp\UnityTempFile-e145a050457b94b44b71f4938434da35
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e37775eb7d002b648b8a47ac854ba08a
+    fullPath: C:\Users\Prudhvi\Documents\Dead Earth\Temp\UnityTempFile-e37775eb7d002b648b8a47ac854ba08a
+    projectPath: Temp\UnityTempFile-e37775eb7d002b648b8a47ac854ba08a
+    originalPath: 
+    status: 1
+    staged: 0
