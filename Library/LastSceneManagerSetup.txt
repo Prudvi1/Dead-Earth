@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Navigation Example/Navigation Example.unity
+  isLoaded: 1
+  isActive: 1
