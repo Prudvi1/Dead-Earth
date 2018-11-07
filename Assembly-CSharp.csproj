@@ -62,7 +62,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Dead Earth\Scripts\AIWaypointNetwork.cs" />
+    <Compile Include="Assets\Dead Earth\Scripts\Controller.cs" />
+    <Compile Include="Assets\Dead Earth\Scripts\SmoothCameraMount.cs" />
+    <Compile Include="Assets\Dead Earth\Scripts\SpeedController.cs" />
     <Compile Include="Assets\Navigation Example\NavAgentExample.cs" />
+    <Compile Include="Assets\Navigation Example\NavAgentNoRootMotion.cs" />
     <Compile Include="Assets\Navigation Example\SlidingDoorDemo.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
     <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
