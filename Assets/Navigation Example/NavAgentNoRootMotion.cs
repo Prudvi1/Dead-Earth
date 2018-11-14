@@ -5,7 +5,7 @@ using UnityEngine.AI;
 
 [RequireComponent(typeof(NavMeshAgent))]
 public class NavAgentNoRootMotion : MonoBehaviour {
-
+    
     public AIWaypointNetwork waypointNetwork = null;
     public int CurrentIndex = 0;
     public bool HasPath = false;
@@ -17,12 +17,15 @@ public class NavAgentNoRootMotion : MonoBehaviour {
 
     private NavMeshAgent _navAgent = null;
     private Animator _animator = null;
-
+    private float _originalMaxSpeed = 0;
 
 	// Use this for initialization
 	void Start () {
         _navAgent = GetComponent<NavMeshAgent>();
         _animator = GetComponent<Animator>();
+
+        if (_navAgent)
+            _originalMaxSpeed = _navAgent.speed;
 
        /* _navAgent.updatePosition = false;
         _navAgent.updateRotation = false; */
@@ -53,11 +56,33 @@ public class NavAgentNoRootMotion : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
+        int turnOnSpot;
+
         HasPath = _navAgent.hasPath;
         pathPending = _navAgent.pathPending;
         pathStale = _navAgent.isPathStale;
         PathStatus = _navAgent.pathStatus;
 
+        Vector3 crosss = Vector3.Cross(transform.forward, _navAgent.desiredVelocity.normalized);
+        float horizontal = (crosss.y < 0) ? -crosss.magnitude : crosss.magnitude;
+        horizontal = Mathf.Clamp(horizontal * 2.32f,-2.32f, 2.32f);
+
+        if(_navAgent.desiredVelocity.magnitude <1.0f && Vector3.Angle(transform.forward,_navAgent.desiredVelocity)>10.0f)
+        {
+            _navAgent.speed = 0.1f;
+            turnOnSpot = (int)Mathf.Sign(horizontal);
+
+        }
+        else       {
+           // print("hello");
+            _navAgent.speed = _originalMaxSpeed;
+            turnOnSpot = 0;
+        }
+
+        _animator.SetFloat("Horizontal", horizontal, 0.1f, Time.deltaTime);
+        _animator.SetFloat("Vertical", _navAgent.desiredVelocity.magnitude, 0.1f, Time.deltaTime);
+        _animator.SetInteger("TurnOnSpot", turnOnSpot);
+        
         /* if (_navAgent.isOnOffMeshLink)
          {
              StartCoroutine(Jump(1.0f));
